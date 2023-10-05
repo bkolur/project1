@@ -2,11 +2,10 @@
 This is test of merge conflict - from CLI
 
 Testing merge conflict - from GUI
+
+merge conflict happens when same line in same file is edited by two people
 Merge conflict must be resolved by consultation and collaboration
-
-
 Devops engineer must collaborate with developers
-
-
-
-Resolved merge conflict
+devops engineer needs to connect with two developers to resolve
+the comment with correct coding must be retained 
+conflict resolved
